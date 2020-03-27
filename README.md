@@ -1,2 +1,3 @@
 # rgbd-odometry
-ROS package for visual odometry estimation based on RGBD data (tested with TUM dataset)
+
+This package implements a viual odometry sysem based on RGBD cameras.  
